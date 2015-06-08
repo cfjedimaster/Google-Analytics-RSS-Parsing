@@ -1,0 +1,1 @@
+This code demonstrates how to mash up the Google Analytics API and a RSS feed.
